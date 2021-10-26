@@ -1,0 +1,7 @@
+{
+    "packet_duration": 100, 
+    "max_queued_packets": 1000,
+    "file_count": 100,
+    "folder_id": "<INSERT HERE>",
+    "port": 42069
+}
